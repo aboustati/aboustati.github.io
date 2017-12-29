@@ -1,6 +1,6 @@
 ---
-layout: post
 title: How to Setup a VM in Azure for Deep Learning?
+date: 2017-01-02
 ---
 
 I am quite interested in learning more about deep learning, but I find it quite difficult to implement some of the recent models on my laptop, due to their huge computational overhead on the CPU. Since, I do not have £1000 to spend on a new Titan X, I decided to try a cheaper solution on Microsoft's cloud service Azure. If you are in a similar position to me, you might find this blog post helpful as I detail the setup of the cloud solution I used.
