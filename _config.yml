@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ayman Boustati"
-  avatar           : "profile.png"
-  bio              : "I am a second year PhD student in the Mathematic for Real-World Systems CDT; however, I am currently based in London at the Alan Turing Institute. My main area of research is in Machine Learning and its applications in healthcare. I am work on developing methodolgies for transfer learning and multitask learning for Gaussian Process models (of the shallow and deep varieties!). I am also interested in probabilistic modelling in general and scaling its applications through Variational Inference."
+  name             : &name
+  avatar           : "profile.jpg"
+  bio              : &description
   location         : "London, UK"
   employer         :
   googlescholar    : 
