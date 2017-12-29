@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ayman Boustati"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a second year PhD student in the Mathematic for Real-World Systems CDT; however, I am currently based in London at the Alan Turing Institute. My main area of research is in Machine Learning and its applications in healthcare. I am work on developing methodolgies for transfer learning and multitask learning for Gaussian Process models (of the shallow and deep varieties!). I am also interested in probabilistic modelling in general and scaling its applications through Variational Inference."
+  location         : "London, UK"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "ayman.boustati@outlook.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "aboustati"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-4061-0271"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AymanBoustati"
   vine             :
   weibo            :
   xing             :
