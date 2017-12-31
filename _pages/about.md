@@ -16,5 +16,5 @@ I am a second year PhD student in the [Mathematic for Real-World Systems CDT](ht
 * Gaussian Processes
 * Multitask and Transfer Learning
 * Bayesian Inference (mainly Variational Inference)
-* Statistical Machine Leaning and Probabilistic Modelling
+* Probabilistic Modelling
 * Representation Learning
