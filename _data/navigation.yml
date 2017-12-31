@@ -3,6 +3,9 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Software"
+    url: /software/
+    
     #- title: "Publications"
     #url: /publications/
 
@@ -12,12 +15,12 @@ main:
     #- title: "Teaching"
     #url: /teaching/    
     
-    #- title: "Portfolio"
-    #url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /blog/
     
   - title: "CV"
     url: /cv/
     
+  - title: "Contact"
+    url: /contact/
