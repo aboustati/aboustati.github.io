@@ -8,7 +8,7 @@ Contact information is below, including email and various web services.
 
 * Personal Email: ayman.boustati [at] outlook.com
 * Warwick Email: a.boustati [at] warwick.ac.uk
-* Turing Email: aboustati [at] turing.ac.uk
+#* Turing Email: aboustati [at] turing.ac.uk
 * Twitter: [@AymanBoustati](https://twitter.com/AymanBoustati)
 * LinkedIn: [ayman-boustati](https://www.linkedin.com/in/ayman-boustati/)
 * Github: [aboustati](https://github.com/aboustati)

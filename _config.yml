@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Ayman Boustati"
 title_separator          : "-"
 name                     : &name "Ayman Boustati"
-description              : &description "PhD Student in the Mathematics for Real-World Systems CDT at the University of Warwick and the Alan Turing Institute"
+description              : &description "PhD Student in the Mathematics for Real-World Systems CDT at the University of Warwick"
 url                      : "https://aboustati.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aboustati/aboustati.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Ayman Boustati"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in the Mathematics for Real-World Systems CDT at the University of Warwick and the Alan Turing Institute"
-  location         : "London, UK"
+  bio              : "PhD Student in the Mathematics for Real-World Systems CDT at the University of Warwick"
+  location         : "Leamington Spa, UK"
   employer         :
   googlescholar    : 
   email            : "ayman.boustati@outlook.com"
