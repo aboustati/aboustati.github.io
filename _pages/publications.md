@@ -12,7 +12,7 @@ You can also find my publications on <u><a href="https://scholar.google.com/cita
 
 * **Boustati, A.**, Akyildiz, Ö. D., Damoulas, T., & Johansen, A. (2020). Generalized Bayesian Filtering via Sequential Monte Carlo. arXiv preprint arXiv:2002.09998. Under Review. <https://arxiv.org/abs/2003.04125>
 
-* Richter, L., **Boustati, A.**\*, Nüksen, N., Ruiz, F. J., Akyildiz, Ö. D. (2020). VarGrad: A Low Variance Gradient Estimator of Variational Inference. Under Review.
+* Richter, L., **Boustati, A.**\*, Nüksen, N., Ruiz, F. J., Akyildiz, Ö. D. (2020). VarGrad: A Low Variance Gradient Estimator for Variational Inference. Under Review.
 
 * **Boustati, A.**, Damoulas, T., & Savage, R. S. (2019). Non-linear Multitask Learning with Deep Gaussian Processes. arXiv preprint arXiv:1905.12407. Under Review. <https://arxiv.org/abs/1905.12407>
 
