@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Ayman! Welcome to my webpage! Here is a bit of information about me if you're curious :) 
-
-I am a third year PhD student in the [Mathematic for Real-World Systems CDT](https://warwick.ac.uk/fac/sci/mathsys/) at the University of Warwick, where I am currently supervised by [Theo Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/), and previously by [Rich Savage](https://warwick.ac.uk/fac/cross_fac/zeeman_institute/staffv2/savage). I have recently finished a placement at [Prowler.io](https://www.prowler.io/) in Cambridge working with ST John and James Hensman. Prior, I was based in London at the [Alan Turing Institute](https://www.turing.ac.uk/) as an enrichment student. My main area of research is in Probabilistic Machine Learning. I work on developing methodolgies for transfer learning and multitask learning for Gaussian Process models (of the shallow and deep varieties!). I am also interested in inference in probabilistic models in general, especially scalable methods such as  Variational Inference.
+I am a final year PhD student in the [Mathematic for Real-World Systems CDT](https://warwick.ac.uk/fac/sci/mathsys/) at the University of Warwick, where I am currently supervised by [Theo Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/), and previously by [Rich Savage](https://warwick.ac.uk/fac/cross_fac/zeeman_institute/staffv2/savage). I am also a Visiting Researcher at the London based [Alan Turing Institute](https://www.turing.ac.uk/), having previously done an enrichment year there. I have also completed a placement at [Prowler.io](https://www.prowler.io/) in Cambridge working with ST John and James Hensman on a research project. My main area of research is in Probabilistic Machine Learning. I work on developing novel modelling and inference methodolgies for probabilistic models, with a particular focus on Gaussian process models.
 
 ## Research Interests:
 * Gaussian Processes
 * Multitask and Transfer Learning
 * Bayesian Inference (mainly Variational Inference)
 * Probabilistic Modelling
-* Representation Learning
+* Sequential Monte Carlo
+* Continual and Online Learning
+* Variance Reduction
