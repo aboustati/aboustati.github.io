@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD student in the [Mathematic for Real-World Systems CDT](https://warwick.ac.uk/fac/sci/mathsys/) at the University of Warwick, where I am currently supervised by [Theo Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/), and previously by [Rich Savage](https://warwick.ac.uk/fac/cross_fac/zeeman_institute/staffv2/savage). I am also a Visiting Researcher at the London based [Alan Turing Institute](https://www.turing.ac.uk/), having previously done an enrichment year there. I have also completed a placement at [Prowler.io](https://www.prowler.io/) in Cambridge working with ST John and James Hensman on a research project. My main area of research is in Probabilistic Machine Learning. I work on developing novel modelling and inference methodolgies for probabilistic models, with a particular focus on Gaussian process models.
+I am a research scientist at [causaLens](https://www.causalens.com/), working on fundemental and applied research in machine learning and causality. I completed my PhD in probabilistic machine learning at the [Mathematic for Real-World Systems CDT](https://warwick.ac.uk/fac/sci/mathsys/) at the University of Warwick, where I was supervised by [Theo Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/), and previously by [Rich Savage](https://www.pinpointdatascience.com/team). I was also a Visiting Researcher at the London based [Alan Turing Institute](https://www.turing.ac.uk/) and an intern at [Secondmind.ai](https://www.secondmind.ai/) in Cambridge, where I worked with ST John and James Hensman. My main area of fundemental research is in Probabilistic Machine Learning and I have also been recently looking into the interface between Causality and Reinforcment learning.
 
 ## Research Interests:
-* Gaussian Processes
-* Multitask and Transfer Learning
-* Bayesian Inference (mainly Variational Inference)
-* Probabilistic Modelling
+* Probabilsitic models mainly Gaussian Processes
+* Bayesian inference (mainly Variational Inference)
+* Causality and reinforcment learning
+* Multitask and transfer Learning
 * Sequential Monte Carlo
-* Continual and Online Learning
-* Variance Reduction
+* Continual and online learning
+* Variance reduction
